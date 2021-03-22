@@ -1,2 +1,1 @@
-# We-Love-Movies
-Vercel
+# WeLoveMovies
